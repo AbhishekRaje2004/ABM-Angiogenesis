@@ -1,24 +1,5 @@
 # Angiogenesis Simulation Model
 
-## Introduction
-
-This repository contains a simulation model for angiogenesis, the process by which new blood vessels form from pre-existing vessels. Angiogenesis is crucial for various physiological processes, including wound healing and embryonic development, as well as pathological conditions like cancer. The model simulates angiogenesis under different conditions to study the effects of various treatments.
-
-### Angiogenesis Overview
-
-Angiogenesis involves several steps:
-1. **Activation**: Endothelial cells become activated by angiogenic signals like VEGF (Vascular Endothelial Growth Factor).
-2. **Migration**: Activated endothelial cells migrate towards the source of the angiogenic signal.
-3. **Proliferation**: Endothelial cells proliferate to form new blood vessel structures.
-4. **Maturation**: New blood vessels stabilize and mature.
-
-#### Angiogenesis Process
-
-1. **Initial Blood Vessel**
-2. **Endothelial Cell Activation**
-3. **Migration Towards Signal**
-4. **Formation of New Blood Vessels**
-### Simulations
 
 This model includes five different simulations:
 1. **Without Any Treatment/Original**: Baseline simulation of angiogenesis without any interventions.
