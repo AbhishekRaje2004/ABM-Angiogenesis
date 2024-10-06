@@ -5,7 +5,7 @@ This model includes five different simulations:
 1. **Without Any Treatment/Original**: Baseline simulation of angiogenesis without any interventions.
 2. **Stalk Cell Inhibiting Drug**: Simulation with a drug that inhibits the growth of stalk cells.
 3. **T-Cell Integration**: Simulation incorporating the effects of immune cells, specifically T-cells, on angiogenesis.
-4. ** Immune Integraton & Drug Therapy**: Combined simulation of immune cell effects and stalk cell inhibiting drug.
+4. **Immune Integraton & Drug Therapy**: Combined simulation of immune cell effects and stalk cell inhibiting drug.
 5. **Increasing VEGF Threshold**: Simulation with an increased VEGF threshold to prevent the conversion of endothelial cells to tip cells.
 
 ### Installation
