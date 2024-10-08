@@ -1,4 +1,5 @@
-# Angiogenesis Simulation Model
+# IISc Computational Oncology Project
+## Angiogenesis Simulation Model
 
 
 This model includes five different simulations:
