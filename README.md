@@ -2,7 +2,7 @@
 ## Angiogenesis Simulation Model
 
 
-This model includes five different simulations:
+This model includes five different simulations: 
 1. **Without Any Treatment/Original**: Baseline simulation of angiogenesis without any interventions.
 2. **Stalk Cell Inhibiting Drug**: Simulation with a drug that inhibits the growth of stalk cells.
 3. **T-Cell Integration**: Simulation incorporating the effects of immune cells, specifically T-cells, on angiogenesis.
