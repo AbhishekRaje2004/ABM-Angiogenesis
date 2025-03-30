@@ -99,4 +99,4 @@ do
 done
 echo "close(v)" | tee -a matlab_figures.m &> /dev/null
 echo "exit" | tee -a matlab_figures.m &> /dev/null
-matlab -nodesktop -nosplash -r "matlab_figures"
+matlab -softwareopengl -nodesktop -nosplash -r "matlab_figures"
